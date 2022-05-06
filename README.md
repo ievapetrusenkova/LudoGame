@@ -1,1 +1,1 @@
-Ludo.DiceClass
+Ludo.Game
